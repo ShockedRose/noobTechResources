@@ -5,7 +5,7 @@
 #### Editor de Texto
 
 -   [Visual Studio Code](https://code.visualstudio.com/)
--   [Sublime Text](sublimetext.com)
+-   [Sublime Text](https://sublimetext.com)
 -   [Atom](https://atom.io/)
 -   [Notepad++](https://notepad-plus-plus.org/)
 
